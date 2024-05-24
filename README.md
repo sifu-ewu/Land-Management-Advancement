@@ -63,3 +63,53 @@ Follow these instructions to set up the project locally.
    ```sh
    git clone https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement.git
    cd Bangladesh-Land-Management-Advancement
+## Usage
+
+1. Open the application in your browser at `http://localhost:3000`.
+2. Connect MetaMask and import accounts from Ganache.
+3. Use the application based on your role (super admin, admin, or user).
+
+## Screenshots
+
+![Screenshot 1](path/to/screenshot1.png)
+*Description of Screenshot 1*
+
+![Screenshot 2](path/to/screenshot2.png)
+*Description of Screenshot 2*
+
+## Roadmap
+
+- [x] Implement basic land management functionality
+- [ ] Add support for land disputes and resolution
+- [ ] Integrate with government land registry systems
+- [ ] Enhance user interface and user experience
+- [ ] Implement advanced search and filtering options
+
+See the [open issues](https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement/issues) for a full list of proposed features (and known issues).
+
+## Contributing
+
+Contributions are welcome! Please see the [contributing guidelines](CONTRIBUTING.md) for more information.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+
+Project Link: [https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement](https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement)
+
+## Acknowledgements
+
+- [OpenZeppelin](https://openzeppelin.com/)
+- [Truffle Suite](https://www.trufflesuite.com/)
+- [React Bootstrap](https://react-bootstrap.github.io/)
+- [Img Shields](https://shields.io/)
