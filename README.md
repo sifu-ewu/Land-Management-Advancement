@@ -77,14 +77,14 @@ Follow these instructions to set up the project locally.
 ![Accept the Request](https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement/blob/main/screen%20shot/Accept%20the%20Request.png)
 *Accept the Request: Interface for accepting transaction requests.*
 
-![Admin Dashboard](https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement/blob/main/screen%20shot/Admin%20Dashboard.png)
-*Admin Dashboard: Overview of admin functionalities and controls.*
+![User Profile](https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement/blob/main/screen%20shot/User%20Profile.png)
+*User Profile Dashboard*
 
-![Allocate Land](https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement/blob/main/screen%20shot/Allocate%20Land.png)
-*Allocate Land: Admin interface for allocating land to users.*
+![Owner Land Details](https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement/blob/main/screen%20shot/Owner%20land%20details.png)
+*Owner Land Details*
 
-![Connect to Ethereum](https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement/blob/main/screen%20shot/Connect%20to%20Ethereum.png)
-*Connect to Ethereum: Interface for connecting to the Ethereum network via MetaMask.*
+![Ownership history check](https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement/blob/main/screen%20shot/Ownership%20history%20check.png)
+*Ownership history check*
 
 ![Land Details](https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement/blob/main/screen%20shot/Land%20Details.png)
 *Land Details: Detailed view of land information including size, price, and ownership.*
