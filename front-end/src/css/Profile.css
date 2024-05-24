@@ -1,0 +1,41 @@
+.profile-main-div {
+    margin-top: 8rem;
+    background: linear-gradient(to top, #09203f 0%, #537895 100%);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    color: pink;
+}
+
+p {
+    color: white;
+}
+
+.profile-main-div .form-group label {
+    margin-top: 1rem;
+}
+
+.profile-main-div label {
+    margin-top: 1.5rem;
+}
+
+.profile-main-div button {
+    margin-top: 1.8rem;
+}
+
+.select-gender {
+    width: 77%;
+    padding: 0.6rem;
+    outline: none !important;
+    border-color: rgb(199, 197, 197);
+    border-radius: 12px;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.select-gender:focus {
+    border-color: dodgerblue;
+    box-shadow: 0 0 10px rgba(30, 144, 255, 0.8);
+}

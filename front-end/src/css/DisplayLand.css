@@ -1,0 +1,55 @@
+/* DisplayLand.css */
+.display_lands {
+
+    margin-top: 4rem;
+    width: 66%;
+    border: 2px solid rgb(160, 158, 158);
+    padding: 1rem;
+    border-radius: 5px;
+
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.land_showing {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.land_showing th,
+.land_showing td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.land_showing th {
+    grid-auto-columns: max-content;
+    font-weight: bold;
+}
+
+.land_showing.survey {
+    width: 150px;
+    /* Adjust the width as needed */
+}
+
+.marked-available,
+.mark-available-btn {
+    margin-top: 20px;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+}
+
+.marked-available:hover,
+.mark-available-btn:hover {
+    background-color: #45a049;
+}

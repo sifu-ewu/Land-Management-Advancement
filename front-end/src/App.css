@@ -1,0 +1,104 @@
+body {
+  background: linear-gradient(to right, rgba(79, 70, 229, 1) 10%, rgba(41, 190, 209, 1) 90%);
+  background-color: rgba(79, 70, 229, 1);
+  /* fallback for older browsers */
+  background-color: rgba(79, 70, 229, 1);
+
+  background-size: cover;
+  background-position: center;
+  /* background-repeat: no-repeat; */
+
+}
+
+.image-show {
+  float: right;
+  height: 100%;
+  width: 50%;
+  margin-bottom: 40%;
+  border-radius: 10% !important;
+
+  /* Add !important to override any conflicting styles */
+}
+
+.image-show img {
+  border-radius: 10%;
+  width: 50%;
+  height: 50%;
+  margin-top: 70px;
+  margin-right: 100px;
+  transform: rotate(0);
+  transform: rotate(0);
+  animation: rotate 20s ease-in-out infinite;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+.emblem {
+  width: 5rem;
+  padding-right: 2rem;
+}
+
+
+.landingPage-heading-div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 2rem;
+
+}
+
+.landingPage-btn,
+.update-btn {
+  padding: 1rem 6rem;
+  margin-top: 4rem;
+  font-size: 1rem;
+  border-radius: 10px;
+  outline: none !important;
+  border: none !important;
+  background-color: rgb(28, 199, 28);
+  color: white;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.welcome-p {
+  margin-top: 5rem;
+  font-size: 2.4rem;
+  width: 50%;
+  color: black;
+}
+
+/* small devices */
+@media screen and (max-width: 400px) {
+
+  .landingPage-mainDiv {
+    padding: 0 2rem;
+    display: flex;
+
+  }
+
+  .welcome-p {
+    width: 86%;
+  }
+
+  .landingPage-btn {
+    font-size: 1.5rem;
+    padding: 1rem 3rem;
+    display: flex;
+  }
+
+
+  html {
+    font-size: 80%;
+  }
+}
