@@ -61,7 +61,7 @@ Follow these instructions to set up the project locally.
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement.git
+   git clone https://github.com/sifu-ewu/Land-Management-Advancement.git
    cd Bangladesh-Land-Management-Advancement
 ## Usage
 
