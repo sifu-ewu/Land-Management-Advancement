@@ -71,8 +71,8 @@ Follow these instructions to set up the project locally.
 
 ## Screenshots
 
-![Screenshot 1](path/to/screenshot1.png)
-*Description of Screenshot 1*
+![Screenshot 1]([path/to/screenshot1.png](https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement/blob/main/screen%20shot/Accept%20the%20Request.png))
+*Accept the request for trasection*
 
 ![Screenshot 2](path/to/screenshot2.png)
 *Description of Screenshot 2*
