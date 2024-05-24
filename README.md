@@ -1,6 +1,6 @@
 # Decentralized Land Management System
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)](LICENSE)
 [![GitHub Issues](https://img.shields.io/github/issues/sifu-ewu/Bangladesh-Land-Management-Advancement.svg)](https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/sifu-ewu/Bangladesh-Land-Management-Advancement.svg)](https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement/pulls)
 
@@ -127,7 +127,7 @@ Contributions are welcome! Please see the [contributing guidelines](CONTRIBUTING
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [AGPL-3.0 License](LICENSE).
 
 
 
