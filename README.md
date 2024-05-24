@@ -86,30 +86,31 @@ Follow these instructions to set up the project locally.
 ![Ownership history check](https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement/blob/main/screen%20shot/Ownership%20history%20check.png)
 *Ownership history check*
 
-![Land Details](https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement/blob/main/screen%20shot/Land%20Details.png)
-*Land Details: Detailed view of land information including size, price, and ownership.*
+![Super adminn alocate admin process](https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement/blob/main/screen%20shot/Super%20adminn%20alocate%20admin%20process.png)
+*Super adminn alocate admin process*
 
-![Profile Update](https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement/blob/main/screen%20shot/Profile%20Update.png)
-*Profile Update: User interface for updating profile information.*
+![Profile Update](https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement/blob/main/screen%20shot/if%20land%20is%20available%20for%20buy.png)
+*Land availability for buying*
 
-![Transaction History](https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement/blob/main/screen%20shot/Transaction%20History.png)
-*Transaction History: View of past transactions and ownership history.*
+![Land Requests](https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement/blob/main/screen%20shot/owner%20land%20requests%20if%20have.png)
+*Land Requests*
 
-![User Dashboard](https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement/blob/main/screen%20shot/User%20Dashboard.png)
-*User Dashboard: Overview of user functionalities and controls.*
+![Ownership Changing](https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement/blob/main/screen%20shot/ownership%20has%20been%20changed%20after%20accept%20the%20request.png)
+*Ownership Changing*
 
-![View Lands](https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement/blob/main/screen%20shot/View%20Lands.png)
-*View Lands: Interface for users to view their owned lands and details.*
+![Buy Request Processing](https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement/blob/main/screen%20shot/requested%20for%20buy%20the%20land.png)
+*Buy Request Processing*
 
 
-
+![Finalizing Buy Request](https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement/blob/main/screen%20shot/sending%20request%20to%20buy.png)
+*Finalizing Buy Request*
 
 ## Roadmap
 
-- [x] Implement basic land management functionality
+- [x] Implemented land management functionality
+- [x] Enhanced user interface and user experience
 - [ ] Add support for land disputes and resolution
 - [ ] Integrate with government land registry systems
-- [ ] Enhance user interface and user experience
 - [ ] Implement advanced search and filtering options
 
 See the [open issues](https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement/issues) for a full list of proposed features (and known issues).
