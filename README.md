@@ -70,11 +70,12 @@ Follow these instructions to set up the project locally.
 3. Use the application based on your role (super admin, admin, or user).
 
 ## Screenshots
-![Screenshot 1](https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement/blob/main/screen%20shot/Home%20page.png)
+
+<img src="https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement/blob/main/screen%20shot/Home%20page.png" width="600">
 *Home Page*
 
-![Screenshot 2](https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement/blob/main/screen%20shot/Accept%20the%20Request.png)
-*Accept the request for trasection*
+<img src="https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement/blob/main/screen%20shot/Accept%20the%20Request.png" width="600">
+*Accept the request for transaction*
 
 
 
@@ -102,11 +103,7 @@ Contributions are welcome! Please see the [contributing guidelines](CONTRIBUTING
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
-
-Project Link: [https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement](https://github.com/sifu-ewu/Bangladesh-Land-Management-Advancement)
 
 ## Acknowledgements
 
